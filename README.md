@@ -36,7 +36,5 @@ Windows:
 ⚠️・Terms of use:
 Advanced-multitools has been developed solely for educational purposes. This project has been created with good intentions and is intended for personal use only. By choosing to use Advanced-multitools, you acknowledge and accept full responsibility for any consequences that may result from your actions.
 
-🔗・Credits:
-- [Discord](https://discord.gg/https://discord.gg/NyewN6SW32)
-- Creator: Yozoxir and dich3
+
 - Version: 1.5
